@@ -1,0 +1,17 @@
+{ 
+    "tablename":"Test",
+    "structure":[
+        [   {"columnname":"column1"},
+            {"type":"varchar"},
+            {"length":"255"},
+            {"precizion":""},
+            {"generatetype":""}
+        ],
+        [   {"columnname":"column2"},
+            {"type":"int"},
+            {"length":"2"},
+            {"precizion":""},
+            {"generatetype":""}
+        ]
+    ]
+}
